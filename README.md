@@ -1,8 +1,4 @@
 # data_visualisation
 Creating simple plots with Matplotlib and Plotly
-
-
-#Local developemnt
-1. Open index.html in your browser
-
-Writing code in the "main" branch
+1. Learning the CSV File Format
+2. Mapping Global Data Sets: JSON Format
